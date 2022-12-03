@@ -7,6 +7,7 @@ To make a commit I need to use the following commands in git bash:
 + To test connection run ssh -vT git@github.com
 + git push
 
+Didn't work this away.
 In powershell(the agent is supposed to start automatically on OS boot):
 + ssh-add C:\Users\cebol\.ssh\id_rsa
 + To test connection run ssh -vT git@github.com
