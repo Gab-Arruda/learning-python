@@ -1,0 +1,1 @@
+All the python files here were made when I was studying python for the first time using this tutorial https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0
