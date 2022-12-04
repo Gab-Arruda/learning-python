@@ -12,3 +12,5 @@ In powershell(the agent is supposed to start automatically on OS boot):
 + ssh-add C:\Users\cebol\.ssh\id_rsa
 + To test connection run ssh -vT git@github.com
 + git push
+
+It didn't work for some reason. I need to always follow the steps of de git bash.
